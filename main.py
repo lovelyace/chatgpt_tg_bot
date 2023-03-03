@@ -32,7 +32,7 @@ def main():
         )
     )
 
-    application.run_polling()  # 不终止tg-bot
+    application.run_polling()
 
 
 if __name__ == '__main__':
